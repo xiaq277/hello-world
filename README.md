@@ -1,7 +1,7 @@
 # hello-world
 just a repository for xiaq277
 
-public class Hello
+public class HelloWorld
 {
   public static void main(String[] args)
   {
